@@ -16,4 +16,4 @@ Sesampainya di kelurahan, diterima langsung oleh Pak Bejo, dia ditanya,
 
 "Ooh, kamu mahasiswa mana?" tanya Bejo.
 
-Agus menjawab, "Saya di UI Pak, Psikologi."
+Agus menjawab, "Saya di UI Pak, Psikologi Terapan."
