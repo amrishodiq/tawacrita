@@ -32,5 +32,6 @@ Dengan membaca kisah-kisah ini, Anda setuju untuk tidak tersinggung apalagi menu
    2. [Studi banding ke Jepang](08-tiga-tahun-menjabat/studi-banding-ke-jepang.md)
 9. [Empat tahun menjabat, mempersiapkan periode berikutnya](09-empat-tahun-menjabat)
    1. [Utang daerah](09-empat-tahun-menjabat/utang-daerah.md)
+   2. [Pemerintah menyetir media massa](09-empat-tahun-menjabat/pemerintah-menyetir-media-massa.md)
 10. [Tahun kelima, menghalalkan segala cara](10-tahun-kelima)
 11. [Tidak lagi terpilih](11-tidak-terpilih)
