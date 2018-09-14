@@ -26,6 +26,7 @@ Dengan membaca kisah-kisah ini, Anda setuju untuk tidak tersinggung apalagi menu
    2. [IP Bapak berapa?](06-satu-tahun-menjabat/ip-bapak-berapa.md)
 7. [Dua tahun menjabat, bagi-bagi kue](07-dua-tahun-menjabat)
    1. [Balas jasa](07-dua-tahun-menjabat/balas-jasa.md)
+   2. [Mobil](07-dua-tahun-menjabat/mobil.md)
 8. [Tiga tahun menjabat, menerima kenyataan](08-tiga-tahun-menjabat)
    1. [Kunjungan kerja ke luar negeri](08-tiga-tahun-menjabat/kunjungan-kerja-ke-luar-negeri.md)
    2. [Studi banding ke Jepang](08-tiga-tahun-menjabat/studi-banding-ke-jepang.md)
