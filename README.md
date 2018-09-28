@@ -13,6 +13,7 @@ Dengan membaca kisah-kisah ini, Anda setuju untuk tidak tersinggung apalagi menu
 1. [Flash back](01-flash-back)
    1. [Isi rumah kos Bejo dulu](01-flash-back/isi-rumah-kos-bejo-dulu.md)
    2. [Demo buruh](01-flash-back/demo-buruh.md)
+   3. [Perbedaan warna kulit](01-flash-back/perbedaan-warna-kulit.md)
 2. [Bejo, kepala desa sukses](02-menjadi-kepala-desa-sukses)
    1. [Tip](02-menjadi-kepala-desa-sukses/tip.md)
    2. [Perangko](02-menjadi-kepala-desa-sukses/perangko.md)
