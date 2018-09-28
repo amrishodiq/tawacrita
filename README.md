@@ -18,6 +18,7 @@ Dengan membaca kisah-kisah ini, Anda setuju untuk tidak tersinggung apalagi menu
    1. [Tip](02-menjadi-kepala-desa-sukses/tip.md)
    2. [Perangko](02-menjadi-kepala-desa-sukses/perangko.md)
    3. [Enak jaman sekarang](02-menjadi-kepala-desa-sukses/enak-jaman-sekarang.md)
+   4. [Masalah lamaran](02-menjadi-kepala-desa-sukses/masalah-lamaran.md)
 3. [Kampanye calon bupati](03-kampanye-calon-bupati)
    1. [Beda pilihan itu biasa](03-kampanye-calon-bupati/beda-pilihan-itu-biasa.md)
 4. [Visi dan program kerja](04-visi-dan-program-kerja)
