@@ -25,6 +25,7 @@ Dengan membaca kisah-kisah ini, Anda setuju untuk tidak tersinggung apalagi menu
    1. [Membangun jembatan](04-visi-dan-program-kerja/membangun-jembatan.md)
 5. [Bejo menjadi bupati karena bejo](05-menjadi-bupati-karena-bejo)
    1. [Ketika unggul di quick count](05-menjadi-bupati-karena-bejo/ketika-unggul-di-quick-count.md)
+   2. [Tomorrow](05-menjadi-bupati-karena-bejo/tomorrow.md)
 6. [Satu tahun menjabat, lagi semangat](06-satu-tahun-menjabat)
    1. [Blusukan ke rumah sakit jiwa](06-satu-tahun-menjabat/blusukan-ke-rumah-sakit-jiwa.md)
    2. [IP Bapak berapa?](06-satu-tahun-menjabat/ip-bapak-berapa.md)
