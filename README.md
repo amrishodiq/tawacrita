@@ -32,6 +32,7 @@ Dengan membaca kisah-kisah ini, Anda setuju untuk tidak tersinggung apalagi menu
 6. [Satu tahun menjabat, lagi semangat](06-satu-tahun-menjabat)
    1. [Blusukan ke rumah sakit jiwa](06-satu-tahun-menjabat/blusukan-ke-rumah-sakit-jiwa.md)
    2. [IP Bapak berapa?](06-satu-tahun-menjabat/ip-bapak-berapa.md)
+   3. [Penghinaan presiden](06-satu-tahun-menjabat/penghinaan-presiden.md)
 7. [Dua tahun menjabat, bagi-bagi kue](07-dua-tahun-menjabat)
    1. [Balas jasa](07-dua-tahun-menjabat/balas-jasa.md)
    2. [Mobil](07-dua-tahun-menjabat/mobil.md)
