@@ -52,5 +52,6 @@ Dengan membaca kisah-kisah ini, Anda setuju untuk tidak tersinggung apalagi menu
           1. [Bejo, sahabat Ulama](10-tahun-kelima/bejo-sahabat-ulama.md)
           2. [Tahanan politik](10-tahun-kelima/tahanan-politik.md)
           3. [Enakan jaman dulu](10-tahun-kelima/enakan-jaman-dulu.md)
+          4. [Dinas Keuangan](10-tahun-kelima/dinas-keuangan.md)
 11. [Tidak lagi terpilih](11-tidak-terpilih)
     1. [Menjadi saksi korupsi](11-tidak-terpilih/menjadi-saksi-korupsi.md)
