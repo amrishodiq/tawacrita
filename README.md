@@ -45,6 +45,7 @@ Dengan membaca kisah-kisah ini, Anda setuju untuk tidak tersinggung apalagi menu
 9. [Empat tahun menjabat, mempersiapkan periode berikutnya](09-empat-tahun-menjabat)
    1. [Utang daerah](09-empat-tahun-menjabat/utang-daerah.md)
    2. [Pemerintah menyetir media massa](09-empat-tahun-menjabat/pemerintah-menyetir-media-massa.md)
+   3. [Siapa lebih hebat?](09-empat-tahun-menjabat/siapa-lebih-hebat.md)
 10. [Tahun kelima, menghalalkan segala cara](10-tahun-kelima)
           1. [Bejo, sahabat Ulama](10-tahun-kelima/bejo-sahabat-ulama.md)
           2. [Tahanan politik](10-tahun-kelima/tahanan-politik.md)
