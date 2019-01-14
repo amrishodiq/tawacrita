@@ -23,6 +23,7 @@ Dengan membaca kisah-kisah ini, Anda setuju untuk tidak tersinggung apalagi menu
 3. [Kampanye calon bupati](03-kampanye-calon-bupati)
    1. [Beda pilihan itu biasa](03-kampanye-calon-bupati/beda-pilihan-itu-biasa.md)
    2. [Menghalalkan yang haram](03-kampanye-calon-bupati/menghalalkan-yang-haram.md)
+   3. [Cemilan](03-kampanye-calon-bupati/cemilan.md)
 4. [Visi dan program kerja](04-visi-dan-program-kerja)
    1. [Membangun jembatan](04-visi-dan-program-kerja/membangun-jembatan.md)
 5. [Bejo menjadi bupati karena bejo](05-menjadi-bupati-karena-bejo)
