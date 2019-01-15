@@ -45,6 +45,8 @@ Dengan membaca kisah-kisah ini, Anda setuju untuk tidak tersinggung apalagi menu
    3. [Pidana mati untuk teroris](08-tiga-tahun-menjabat/pidana-mati.md)
    4. [Rumah bupati](08-tiga-tahun-menjabat/rumah-bupati.md)
    5. [Yang tidak boleh dilihat remaja](08-tiga-tahun-menjabat/yang-tidak-boleh-dilihat-remaja.md)
+   6. [Kaget](08-tiga-tahun-menjabat/kaget.md)
+   7. [Tertangkap Tangan](08-tiga-tahun-menjabat/tertangkap-tangan.md)
 9. [Empat tahun menjabat, mempersiapkan periode berikutnya](09-empat-tahun-menjabat)
    1. [Utang daerah](09-empat-tahun-menjabat/utang-daerah.md)
    2. [Pemerintah menyetir media massa](09-empat-tahun-menjabat/pemerintah-menyetir-media-massa.md)
